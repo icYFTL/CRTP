@@ -6,3 +6,6 @@ Random teleportation for cuberite
 
 ### Commands:  
 - `/rtp` - teleport yourself into random coordinates `[X: -5000;5000 | Y: 0;70 | Z: -5000;5000]`
+
+### WARNING:
+This plugin possibly can increase used RAM because of chunks loading.
